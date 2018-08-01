@@ -2,5 +2,29 @@
 	text-align: center;
 }
 .blue {
-	color: Blue;
+	color: blue;
+}
+.red {
+	color: red;
+}
+.green {
+	color: green;
+}
+.borderFull {
+	border-top: 2px solid;
+	border-top-color: brown;
+	border-bottom: 2px solid;
+	border-bottom-color: brown;
+	border-left: 2px solid;
+	border-left-color: brown;
+	border-right: 2px solid;
+	border-right-color: brown;
+	/*----------------------*/
+	margin-left: 680px;
+	margin-right: 680px;
+	text-align: center;
+}
+.borderXtra {
+	margin-bottom: 0px;
+	margin-top: 0px;
 }
