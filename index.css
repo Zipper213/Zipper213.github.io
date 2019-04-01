@@ -13,3 +13,7 @@
 .borderBlackRight {
 	border-right: 1px black;
 }
+
+.noDeco {
+	text-decoration: none;
+}
